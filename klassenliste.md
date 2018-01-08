@@ -4,7 +4,7 @@
 |--------|--------|
 |Ali     |        |
 |Bamathy |        |
-|David   |        |
+|David   | X      |
 |Dominik |        |
 |Erik    |        |
 |Halid   |        |
